@@ -1,0 +1,6 @@
+ID001,Deep Tissue Massage,Physiotherapy,60,90.0
+ID001,Sports Therapy Session,Sports Medicine,45,80.0
+ID002,Pool Therapy,Rehabilitation,60,150.0
+ID002,Neuro Rehab Session,Neurology,60,120.0
+ID003,Pediatric Massage,Physiotherapy,60,90.0
+ID003,Pediatric Therapy Session,Pediatrics,45,80.0

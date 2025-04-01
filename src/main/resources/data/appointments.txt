@@ -1,0 +1,3 @@
+ID101,Emily Carter,123 Yonge St, Toronto, ON M4W 1A1,416-555-0101,ID001,Dr. Michael Harper,Deep Tissue Massage,Physiotherapy,60,90.0,2025-04-01 10:00,ATTENDED,416-555-0201
+ID102,Lucas Bennett,456 Bloor St W, Toronto, ON M5S 1X8,416-555-0102,ID002,Dr. Sarah Mitchell,Pool Therapy,Rehabilitation,60,150.0,2025-04-01 09:00,BOOKED,416-555-0202
+ID103,Sophia Nguyen,789 Queen St E, Toronto, ON M4M 1H4,416-555-0103,ID003,Dr. Andrew Kim,Pediatric Massage,Physiotherapy,60,90.0,2025-04-01 13:00,CANCELLED,416-555-0203
