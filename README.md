@@ -1,13 +1,6 @@
 # Boost Physio Clinic Booking System
 
-A Java-based application for managing physiotherapy appointments at Boost Physio Clinic in Toronto, Canada. The system supports booking, canceling, marking appointments as attended, generating reports, and creating UML diagrams.
-
-## Running the Program
-
-- **Main.java**: Loads availability time ranges from `timetable.txt`, generates a report, and creates a UML diagram.
-    - Run with: `java -cp target/classes;path/to/plantuml.jar com.bpc.booking.Main`
-- **MenuBasedMain.java**: Provides an interactive menu for managing appointments, including viewing the availability timetable, adding/removing patients, and changing appointments.
-    - Run with: `java -cp target/classes;path/to/plantuml.jar com.bpc.booking.MenuBasedMain`
+A Java-based application for managing physiotherapy appointments at Boost Physio Clinic in Toronto, Canada. The system supports booking, canceling, marking appointments as attended and generating reports.
 
 ## Data Files
 
@@ -38,11 +31,10 @@ The system uses the following data files located in `src/main/resources/data/`:
 - **Reporting:** Generate a detailed report with appointment summaries, patient details, and revenue, sorted by attended appointments.
 - **Persistence:** Appointments and patients are saved to `appointments.txt` and `patients.txt` for persistence across runs.
 - **Menu Interface:** Interactive menu for managing appointments (MenuBasedMain.java).
-- **UML Diagram:** Generate a class diagram using PlantUML, saved as `class_diagram.png`.
 
 ## Sample Usage (MenuBasedMain.java)
 
-1. Run the program: `java -cp target/classes;path/to/plantuml.jar com.bpc.booking.MenuBasedMain`
+1. Run the program MenuBasedMain
 2. Choose option 7 to view the availability timetable and available time slots.
 3. Choose option 1 to book a new appointment by expertise:
     - Expertise: `Physiotherapy`
